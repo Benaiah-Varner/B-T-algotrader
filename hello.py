@@ -1,1 +1,0 @@
-msg = 'algo trader first take'
